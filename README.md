@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm ali parsamanesh</h1>
+
+
+
+<h1 align="center">Welcome to my GitHub map guys</h1>
+<h3 align="center">My name is Ali Parsamanesh</h3>
+
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+
+<p align="Center" ><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></p>
+
 <h3 align="center">I'm front-end(React.js) developer from iran</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alipsm&label=Profile%20views&color=0e75b6&style=flat" alt="alipsm" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alipsm" alt="alipsm" /></a> </p>
 
@@ -24,3 +33,4 @@
 <img style="margin:auto;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alipsm&" alt="alipsm" />
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipsm&show_icons=true&locale=en&layout=compact" alt="alipsm" />
 </div>
+
