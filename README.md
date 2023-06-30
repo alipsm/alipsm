@@ -1,19 +1,58 @@
 
 
 
-<h1 align="center">Welcome to my GitHub map guys</h1>
-<h3 align="center">My name is Ali Parsamanesh</h3>
+<h1 align="center">Welcome to my GitHub map guys <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></h1>
 
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+<br/>
+<br/>
+
+> GitHub Profile About
+
+<div>
+<a href="https://app.daily.dev/SWS-5007"><img align="right" src="https://github.com/SWS-5007/SWS-5007/blob/main/code.gif" width="400" height="300" alt="Harry Potter's Dev Card"/></a>
+<p>
+my info
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+   
+</p>
+</div>
+
+
+
+<br/>
+<div>
 
 <p align="Center" ><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></p>
-
+<br/>
+<hr/>
 <h3 align="center">I'm front-end(React.js) developer from iran</h3>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alipsm&label=Profile%20views&color=0e75b6&style=flat" alt="alipsm" /> </p>
+> GitHub Profile Status
+
+<div>
+
+<p align="center">
+  <a>
+    <img height="110" width="150" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipsm&theme=dark&hide_border=true" alt="muhiqsimui"/>
+    <img height="110" width="150" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
+  </a>
+</p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alipsm" alt="alipsm" /></a> </p>
+</div>
+<br />
+
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <hr/>
@@ -33,4 +72,3 @@
 <img style="margin:auto;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alipsm&" alt="alipsm" />
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipsm&show_icons=true&locale=en&layout=compact" alt="alipsm" />
 </div>
-
