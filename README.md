@@ -17,8 +17,6 @@
       <br/>
       It has been almost three years since I entered the world of technology
       <br/>
-      I entered the world of technology three years ago
-      <br/>
       Currently, I really love programming and new technologies
       <br/>
       <br/>
